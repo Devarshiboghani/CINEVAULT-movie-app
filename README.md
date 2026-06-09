@@ -167,7 +167,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Made with ❤️ using Next.js</p>
-
 ## Demo Video
 https://drive.google.com/file/d/1bSvMymT36-ZBgj23YRNy1A-imtNdfQU6/view?t=6.588g
+
+---
+
+<p align="center">Made with ❤️ using Next.js</p>
